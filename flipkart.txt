@@ -1,0 +1,12 @@
+big basket product prediction :
+data and notebook : https://www.kaggle.com/code/ayushv322/bigbasket-product-recommendation-system/notebook
+deployment : https://vermaayush680-bigbasket-product-recommendation-s-mainapp-bp8r67.streamlit.app/
+
+
+flipkart fashion data set:
+https://data.world/opensnippets/flipkart-fashion-products-dataset/workspace/file?filename=flipkart_fashion_products_dataset.json
+
+fashion dna api - fashion trends
+lyst api - 
+google merchant center
+e bay api
